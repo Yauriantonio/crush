@@ -28,8 +28,8 @@ divModoSexo.addEventListener('click', function(e) {
   divModoSexo.appendChild(img)
 });
 
-botones = document.getElementsByTagName("button")
-console.log(botones)
+const botones = document.getElementsByTagName("button")
+// console.log(botones)
 
 window.addEventListener('beforeunload', (event) => {
   event.preventDefault();

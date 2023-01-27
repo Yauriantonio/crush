@@ -1,6 +1,6 @@
 # Love
 
-Declaring your love was never so.
+Declaring your love has never been so easy
 
 If you want to download and upload it, follow the next steps.
 
